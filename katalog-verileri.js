@@ -1,9 +1,9 @@
 // OTOMATIK URETILMISTIR (katalog-verileri.js)
 
 const anaKategoriler = [
-  { "id": "dis", "ad": "Dış Aydınlatma", "resim": "C:/Users/efeha/Documents/GitHub/venerison/disaydinlatma/dis_aydinlatma.png" },
-  { "id": "ic", "ad": "İç Aydınlatma", "resim": "C:/Users/efeha/Documents/GitHub/venerison/icaydinlatma/ic_aydinlatma.png" },
-  { "id": "ekonomik", "ad": "Ekonomik Ürünler", "resim": "C:/Users/efeha/Documents/GitHub/venerison/ekonomik/ekonomik_urunler.png" }
+  { "id": "dis", "ad": "Dış Aydınlatma", "resim": "https://coderhaso.github.io/venerison/disaydinlatma/dis_aydinlatma.png" },
+  { "id": "ic", "ad": "İç Aydınlatma", "resim": "https://coderhaso.github.io/venerison/icaydinlatma/ic_aydinlatma.png" },
+  { "id": "ekonomik", "ad": "Ekonomik Ürünler", "resim": "https://coderhaso.github.io/venerison/ekonomik/ekonomik_urunler.png" }
 ];
 
 const altKategoriler = [
