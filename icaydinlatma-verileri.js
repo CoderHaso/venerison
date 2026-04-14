@@ -1,15 +1,15 @@
 // OTOMATIK URETILMISTIR (icaydinlatma-verileri.js)
 
-const anaKategoriler = [
+const icAnaKategoriler = [
   {"id": "ic", "ad": "İç Aydınlatma", "resim": "https://coderhaso.github.io/venerison/icaydinlatma/ic_aydinlatma.png"}
 ];
 
-const altKategoriler = [
+const icAltKategoriler = [
   {"id": "led-wall-light", "ana_kat_id": "ic", "ad": "Led Wall Light", "resim": "https://coderhaso.github.io/venerison/icaydinlatma/led-wall-light/ldaven01/ldaven01_1.png"},
   {"id": "led-garden-bollard", "ana_kat_id": "ic", "ad": "Led Garden Bollard", "resim": "https://coderhaso.github.io/venerison/icaydinlatma/led-garden-bollard/lbbven01/lbbven01_1.png"}
 ];
 
-const urunler = [
+const icUrunlerHavuz = [
 {
   "id": "ldaven01",
   "alt_kat_id": "led-wall-light",
